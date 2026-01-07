@@ -1,7 +1,7 @@
 
-  # Crear botón translúcido
+  # marca-Verced
 
-  This is a code bundle for Crear botón translúcido. The original project is available at https://www.figma.com/design/A0m5AxnIQCjuyVJXKBqRyT/Crear-bot%C3%B3n-transl%C3%BAcido.
+  This is a code bundle for marca-Verced. The original project is available at https://www.figma.com/design/A0m5AxnIQCjuyVJXKBqRyT/marca-Verced.
 
   ## Running the code
 
